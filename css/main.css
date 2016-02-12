@@ -40,4 +40,12 @@ body {
   .top {
     padding-left: 7em;
   }
+
+  .iron {
+    padding-left: 10%;
+  }
+
+  .carbon {
+    padding-right: 10%;
+  }
 }
