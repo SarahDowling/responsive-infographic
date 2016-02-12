@@ -43,12 +43,10 @@ body {
   background-color: #f7faee;
 }
 
-header svg {
-  width: 100%;
-}
-
 svg {
   display: block;
+  width: 100%;
+  height: 100%;
 }
 
 footer {
