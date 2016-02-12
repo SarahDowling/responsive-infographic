@@ -16,6 +16,10 @@ html {
   box-sizing: inherit;
 }
 
+.protein {
+  padding-left: 10em;
+}
+
 @media only screen and (min-width: 60em) {
   .protein {
     max-width: 35.8%;
