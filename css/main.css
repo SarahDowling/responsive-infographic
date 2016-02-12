@@ -25,12 +25,8 @@ body {
   background-color: #add9b0;
 }
 
-.protein-1 {
-  padding-left: 4em;
-}
-
 .protein-2 {
-  padding-left: 10em;
+  padding-left: 27%;
 }
 
 @media only screen and (min-width: 60em) {
@@ -39,5 +35,9 @@ body {
     max-width: 36.7%;
     padding-top: 1.6em;
     padding-left: 0;
+  }
+
+  .top {
+    padding-left: 7em;
   }
 }
