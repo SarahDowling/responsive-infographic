@@ -38,6 +38,13 @@ body {
   background-color: #f7faee;
 }
 
+svg {
+  display: block;
+}
+
+footer {
+  background-color: #add9b0;
+}
 @media only screen and (min-width: 60em) {
 
   .protein-2 {
