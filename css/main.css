@@ -16,6 +16,15 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-color: #f7faee;
+  margin: 0;
+}
+
+.info-1 {
+  background-color: #add9b0;
+}
+
 .protein-1 {
   padding-left: 4em;
 }
