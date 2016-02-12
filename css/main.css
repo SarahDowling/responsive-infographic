@@ -32,6 +32,11 @@ body {
 
 .grass {
   width: 100%;
+  overflow: hidden;
+}
+
+.grass svg {
+  overflow: visible;
 }
 
 .iron, .carbon {
