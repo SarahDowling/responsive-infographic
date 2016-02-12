@@ -16,14 +16,19 @@ html {
   box-sizing: inherit;
 }
 
-.protein {
+.protein-1 {
+  padding-left: 4em;
+}
+
+.protein-2 {
   padding-left: 10em;
 }
 
 @media only screen and (min-width: 60em) {
 
-  .protein {
-    max-width: 35.8%;
-    padding-top: 2.2em;
+  .protein-2 {
+    max-width: 36.7%;
+    padding-top: 1.6em;
+    padding-left: 0;
   }
 }
