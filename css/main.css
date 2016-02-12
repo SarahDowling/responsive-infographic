@@ -10,6 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  background-color: #add9b0;
 }
 
 *, *::before, *::after {
@@ -27,6 +28,14 @@ body {
 
 .protein-2 {
   padding-left: 27%;
+}
+
+.grass {
+  width: 100%;
+}
+
+.iron, .carbon {
+  background-color: #f7faee;
 }
 
 @media only screen and (min-width: 60em) {
