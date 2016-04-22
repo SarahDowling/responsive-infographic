@@ -52,6 +52,29 @@ svg {
 footer {
   background-color: #add9b0;
 }
+
+.bean {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  transition: all 1s linear;
+}
+
+.bean-move
+  animation: beananimation 1s linear forwards;
+}
+
+@keyframes beananimation {
+
+  0% {
+    stroke-dasharray: 0, 480;
+  }
+
+  100% {
+    stroke-dasharray: 480, 480;
+  }
+}
+
 @media only screen and (min-width: 60em) {
 
   .protein-2 {
